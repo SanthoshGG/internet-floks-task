@@ -1,0 +1,24 @@
+.about {
+  background-color: #f7f8fb;
+}
+
+.gridView {
+  align-items: center;
+}
+
+.content {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.content h3 {
+  color: #0e2368;
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.content p {
+  margin-bottom: 25px;
+}
+.content button {
+  border-radius: 25px;
+}

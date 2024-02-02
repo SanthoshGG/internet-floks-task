@@ -1,0 +1,30 @@
+.article {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.titles {
+  color: #0e2368;
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.foot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.foot button {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.bottomButton {
+  cursor: no-drop;
+  background-color: white !important;
+  color: #8080804a !important;
+  border: 1px solid #8080804a !important;
+}
